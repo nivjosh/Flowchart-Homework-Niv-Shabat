@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="‫עמוד-1‬" id="5FEzra2eCPynIfty53rC">
+    <mxGraphModel dx="1178" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-16" edge="1" parent="1" source="QAlZ3Y9HxyUoIEKShHbd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PZr1jrS1ZKPZi4Ap-Het-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QAlZ3Y9HxyUoIEKShHbd-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QAlZ3Y9HxyUoIEKShHbd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="mul" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QAlZ3Y9HxyUoIEKShHbd-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="STOP" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-22" edge="1" parent="1" source="PZr1jrS1ZKPZi4Ap-Het-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PZr1jrS1ZKPZi4Ap-Het-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-15" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="num_1" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-23" edge="1" parent="1" source="PZr1jrS1ZKPZi4Ap-Het-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PZr1jrS1ZKPZi4Ap-Het-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cal=num_1*num_1" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="PZr1jrS1ZKPZi4Ap-Het-21" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&quot;your number is&quot;" vertex="1">
+          <mxGeometry height="70" width="120" x="330" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
